@@ -30,8 +30,8 @@ Pengguna harus dapat:
 
 ### Link
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/wahyuanandaa/chat-app-css-illustration)
+- Live Site URL: [GitHub Pages](https://wahyuanandaa.github.io/chat-app-css-illustration/)
 
 ## Proses Saya
 
